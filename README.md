@@ -13,7 +13,7 @@
 <a href="https://github.com/TasnimAnas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/tranas18/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://twitter.com/tranasreal" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="40" height="40"/> </a>
-<a href="https://stackoverflow.com/users/15813678/tasnimanas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" width="40" height="40"/> </a>
+<a href="https://stackoverflow.com/story/tasnimanas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" width="40" height="40"/> </a>
 <a href="https://codeforces.com/profile/TasnimAnas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" width="40" height="40"/> </a>
 <a href="https://www.codechef.com/users/tasnimanas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="codechef" width="40" height="40"/> </a>
  <a href="https://www.hackerrank.com/TasnimAnas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" width="40" height="40"/> </a> 
