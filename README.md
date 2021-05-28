@@ -10,14 +10,14 @@
 
 
 <p align="left">
-<a href="https://github.com/TasnimAnas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.linkedin.com/in/tranas18/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
-<a href="https://twitter.com/tranasreal" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" width="40" height="40"/> </a>
-<a href="https://stackoverflow.com/story/tasnimanas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" width="40" height="40"/> </a>
-<a href="https://codeforces.com/profile/TasnimAnas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" width="40" height="40"/> </a>
-<a href="https://www.codechef.com/users/tasnimanas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="codechef" width="40" height="40"/> </a>
- <a href="https://www.hackerrank.com/TasnimAnas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" width="40" height="40"/> </a> 
-<a href="https://medium.com/@TasnimAnas" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" width="40" height="40"/> </a></p>
+<a href="https://github.com/TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/github.png" alt="github" width="40" height="40"/> </a>
+ <a href="https://www.linkedin.com/in/tranas18/" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://twitter.com/tranasreal" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/twitter.svg" alt="twitter" width="40" height="40"/> </a>
+<a href="https://stackoverflow.com/story/tasnimanas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/stackoverflow.png" alt="stackoverflow" width="40" height="40"/> </a>
+ <a href="https://codeforces.com/profile/TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/Codeforces.svg" alt="codeforces" width="40" height="40"/> </a>
+<a href="https://www.codechef.com/users/tasnimanas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/codechef.png" alt="codechef" width="50" height="50"/> </a>
+ <a href="https://www.hackerrank.com/TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/> </a> 
+<a href="https://medium.com/@TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/medium.svg" alt="medium" width="40" height="40"/> </a></p>
 <p><br/></p>
 
 
