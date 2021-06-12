@@ -10,7 +10,7 @@
 
 
 <p align="left">
-<a href="https://github.com/TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/github.png" alt="github" width="40" height="40"/> </a>
+<a href="https://github.com/TasnimAnas" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/github.png" alt="github" width="40" height="40"/> </a>
  <a href="https://www.linkedin.com/in/tranas18/" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
 <a href="https://twitter.com/tranasreal" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/twitter.svg" alt="twitter" width="40" height="40"/> </a>
 <a href="https://stackoverflow.com/story/tasnimanas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/stackoverflow.png" alt="stackoverflow" width="40" height="40"/> </a>
