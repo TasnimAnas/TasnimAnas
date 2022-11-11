@@ -1,5 +1,5 @@
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-### Hi there 👋, my name is Tasnimur Rahaman Anas
+### Hi there 👋, my name is Tasnim Anas
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TasnimAnas) 
 
 <h3 align="left">Languages and Tools:</h3>
