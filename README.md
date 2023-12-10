@@ -1,41 +1,81 @@
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-### Hi there 👋, my name is Tasnim Anas
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TasnimAnas) 
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<!--  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
-<p><br/></p>
+![Header](./github-header-image-2.png)
 
-<h3 align="left">- 🔭 I’m available in these platforms:</h3>
+</div>
 
+# 💫 About Me:
 
-<p align="left">
-<a href="https://github.com/TasnimAnas" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/github.png" alt="github" width="40" height="40"/> </a>
- <a href="https://www.linkedin.com/in/tranas18/" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/linkedin.svg" alt="linkedin" width="40" height="40"/> </a>
-<a href="https://twitter.com/ImTasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/twitter.svg" alt="twitter" width="40" height="40"/> </a>
-<a href="https://stackoverflow.com/story/tasnimanas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/stackoverflow.png" alt="stackoverflow" width="40" height="40"/> </a>
- <a href="https://codeforces.com/profile/TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/Codeforces.svg" alt="codeforces" width="40" height="40"/> </a>
-<a href="https://www.codechef.com/users/tranas18" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/codechef.png" alt="codechef" width="50" height="50"/> </a>
- <a href="https://www.hackerrank.com/TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/hackerrank.svg" alt="hackerrank" width="40" height="40"/> </a> 
-<a href="https://medium.com/@TasnimAnas" target="_blank"> <img src="https://github.com/TasnimAnas/TasnimAnas/blob/main/Logos/medium.svg" alt="medium" width="40" height="40"/> </a></p>
-<p><br/></p>
+<h1 align="center">Hi 👋, I'm Tasnim Anas</h1>
+<h3 align="left">Last semester CSE undergrad with a relentless passion for Web Development, Problem-Solving, and Innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!</h3>
+<br/>
 
+- 🌱 I’m currently working on **Full Stack Development**
 
+- 👨‍💻 All of my details are available at <a href="https://drive.google.com/file/d/1URMf5X-MyYYsySYP_rUqmgkyk8toOMJb/view?usp=drive_link" target="_blank">Resume</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimAnas)](https://github.com/anuraghazra/github-readme-stats)
-<p><br/></p>
+- 💬 Ask me about **C++, Java, JavaScript, Python, MERN Stack, Machine Learning**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimAnas&show_icons=true)  
-<p><br/></p>
- 
+- 📫 How to reach me **tranas1818@gmail.com**
 
-![GitHub metrics](https://metrics.lecoq.io/TasnimAnas)  
-<p><br/></p>
+<div align="center">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TasnimAnas) 
-<p><br/></p>
+## 🌐 Socials:
 
-![Profile views](https://gpvc.arturio.dev/TasnimAnas)
-<p><br/></p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasnimanas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imtasnimanas) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranas1818@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/tasnimanas/)
+
+</div>
+
+# 💻 Tech Stack:
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=blue) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+</div>
+
+# 📊 GitHub Stats:
+
+<div style="display: flex; flex-direction: row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasnimanas&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tasnimanas&theme=vision_friendly_dark&utcOffset=8">
+</div>
+
+<br/>
+<br/>
+
+<div style="display: flex; flex-direction: row;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tasnimanas&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tasnimanas&theme=vision_friendly_dark">
+</div>
+
+<br/>
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tasnimanas&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasnimanas&theme=vision_friendly_dark)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tasnimanas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Open Source Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=tasnimanas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=tasnimanas&icon=4&color=4)](https://visitcount.itsvg.in)
+
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tasnimanas)
+
+</div>
