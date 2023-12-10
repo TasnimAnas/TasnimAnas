@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Tasnim Anas</h1>
-<h3 align="left">Last semester CSE undergrad with a relentless passion for Web Development, Problem-Solving, and Innovation. Eager to contribute, collaborate, and make a meaningful impact in the world of technology. Let's create something extraordinary together!</h3>
+<h3 align="left">An aspiring software engineer with a passion for problem-solving and a drive to learn new technologies. I am currently in the final year of my Computer Science degree. And looking for full-time and internship oppurtunities</h3>
 <br/>
 
 - 🌱 I’m currently working on **Full Stack Development**
