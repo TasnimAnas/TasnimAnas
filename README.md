@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Tasnim Anas</h1>
+<h1 align="center">Hi 👋, I'm Tasnim Ur Rahaman Anas</h1>
 <h3 align="left">An aspiring software engineer with a passion for problem-solving and a drive to learn new technologies. I am currently in the final year of my Computer Science degree. And looking for full-time and internship oppurtunities</h3>
 <br/>
 
