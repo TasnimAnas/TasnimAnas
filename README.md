@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasnimanas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imtasnimanas) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranas1818@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/tasnimanas/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasnimanas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/imtasnimanas) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranas1818@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/tasnimanas/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=UPwnJoMAAAAJ)
 
 </div>
 
