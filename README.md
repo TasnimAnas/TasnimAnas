@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working on **Full Stack Development**
 
-- 👨‍💻 All of my details are available at <a href="https://drive.google.com/file/d/1URMf5X-MyYYsySYP_rUqmgkyk8toOMJb/view?usp=drive_link" target="_blank">Resume</a>
+- 👨‍💻 All of my details are available at <a href="https://github.com/TasnimAnas/TasnimAnas/blob/main/Resume%20-%20Tasnim%20Anas.pdf" target="_blank">Resume</a>
 
 - 💬 Ask me about **C++, Java, JavaScript, Python, MERN Stack, Machine Learning**
 
