@@ -40,7 +40,7 @@
 
 <div style="display: flex; flex-direction: row;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tasnimanas&theme=vision_friendly_dark" style="margin-right: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tasnimanas&theme=vision_friendly_dark&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tasnimanas&theme=vision_friendly_dark&utcOffset=6">
 </div>
 
 <br/>
