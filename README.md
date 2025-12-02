@@ -7,7 +7,7 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Tasnim Ur Rahaman Anas</h1>
-<h3 align="left">A software engineer with a passion for problem-solving and a drive to learn new technologies. I am currently working as a software engineer at Ollyo</h3>
+<h3 align="left">A software engineer with a passion for problem-solving and a drive to learn new technologies. I am currently working as a software & AI engineer at Téchnéos</h3>
 <br/>
 
 - 🌱 I’m currently working on **Full Stack Development**
