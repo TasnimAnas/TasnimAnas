@@ -5,14 +5,14 @@
 # 💫 About Me:
 
 <h1 align="center">Hi 👋, I'm Tasnim Anas</h1>
-<h3 align="left">A software engineer with a passion for problem-solving and a drive to learn new technologies. I am currently working as a software & AI engineer at Téchnéos</h3>
+<h3 align="left">A software engineer with a passion for problem-solving and a drive to learn new technologies. I am currently working as a software & AI engineer at Techneos</h3>
 <br/>
 
-- 🌱 I’m currently working on **Full Stack Development**
+- 🌱 I’m currently working as a **Software and AI Developer**
 
 - 👨‍💻 All of my details are available at <a href="https://github.com/TasnimAnas/TasnimAnas/blob/main/Resume%20-%20Tasnim%20Anas.pdf" target="_blank">Resume</a>
 
-- 💬 Ask me about **C++, Java, JavaScript, Python, MERN Stack, Machine Learning**
+- 💬 Ask me about **C++, JavaScript, Python, MERN Stack, Machine Learning**
 
 - 📫 How to reach me **tur.anas2000@gmail.com**
 
@@ -29,14 +29,5 @@
 # 📊 GitHub Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasnimanas&theme=vision_friendly_dark)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=tasnimanas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
----
-
-[![](https://visitcount.itsvg.in/api?id=tasnimanas&icon=4&color=4)](https://visitcount.itsvg.in)
 
 </div>
