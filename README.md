@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working as a **Software and AI Developer**
 
-- 👨‍💻 All of my details are available at <a href="https://github.com/TasnimAnas/TasnimAnas/blob/main/Resume%20-%20Tasnim%20Anas.pdf" target="_blank">Resume</a>
+- 👨‍💻 All of my details are available at <a href="https://github.com/TasnimAnas/TasnimAnas/blob/main/Resume_Tasnim_Anas.pdf" target="_blank">Resume</a>
 
 - 💬 Ask me about **C++, JavaScript, Python, MERN Stack, Machine Learning**
 
